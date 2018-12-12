@@ -1,0 +1,3 @@
+﻿  sample_test.cpp
+c:\anastasia\polinom\mp2-lab5-polinom\base\polinom.h(144): warning C4101: tmp: неиспользованная локальная переменная
+  base.vcxproj -> C:\Anastasia\polinom\mp2-lab5-polinom\Debug\base.exe
